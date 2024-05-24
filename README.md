@@ -1,4 +1,9 @@
-## Hi there 👋
+## **seja bem vindo**🎱
+
+### sou aluno da _Alura_ e aqui você verà meus projetos aqui 
+## meu e-mail
+-00001102128314sp@al.educacao.sp.gov.br
+![](https://media.tenor.com/ParaU2pRy3IAAAAM/pep-guardiola-guardiola.gif)
 
 <!--
 **DAVI1234567891001/DAVI1234567891001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
